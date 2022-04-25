@@ -1,7 +1,7 @@
 {
 	"trains": [
 		{
-			"name": "Nithin Express",
+			"name": "Hogwarts Express",
 			"stops": [
 				{
 					"station": "Sycamore",
